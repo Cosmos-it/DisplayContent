@@ -13,7 +13,7 @@
 //console.log(newEmail);
 var name = "Taban Cosmos";
 var role = "Developer";
-var phoneNumber = "(425)-209-8052";
+var phoneNumber = "(425)-xxx-xxx";
 var email = "taban@tabancosmos.com";
 var github = "https://github.com/Cosmos-it";
 
